@@ -541,6 +541,7 @@
 				"prerequisites": ["Plastics","Electronics","Ballistics","Combustion","Combined Arm","Radar"],
 				"uniques": ["Only available <after discovering [Pharmaceuticals]","Blank tech for mod compatibility"],
 				"quote": "Stopped."
+			}
 		]
 	},
 	{
