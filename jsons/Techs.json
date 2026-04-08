@@ -534,7 +534,16 @@
 				"prerequisites": ["Ballistics","Electronics"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"],
 				"quote": "'Vision is the art of seeing things invisible.' - Jonathan Swift"
-			},
+			}
+		]
+	},
+	{
+		"columnNumber": 13
+		"era": "Modern era",
+		"techCost": 0,
+		"buildingCost": 0,
+		"wonderCost": 0,
+		"techs": [
 			{
 				"name": "No further",
 				"row": 4,
@@ -545,7 +554,7 @@
 		]
 	},
 	{
-		"columnNumber": 13,
+		"columnNumber": 14,
 		"era": "Atomic era",
 		"techCost": 5100,
 		"buildingCost": 500,
