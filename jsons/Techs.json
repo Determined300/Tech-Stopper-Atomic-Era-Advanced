@@ -547,7 +547,7 @@
 			{
 				"name": "No further",
 				"row": 4,
-				"prerequisites": ["Plastics","Electronics","Ballistics","Combustion","Combined Arm","Radar"],
+				"prerequisites": ["Plastics","Electronics","Ballistics","Combustion","Combined Arms","Radar"],
 				"uniques": ["Only available <after discovering [Pharmaceuticals]","Blank tech for mod compatibility"],
 				"quote": "Stopped."
 			}
