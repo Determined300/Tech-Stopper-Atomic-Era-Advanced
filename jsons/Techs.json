@@ -533,14 +533,14 @@
 		"techs": [
 			{
 				"name": "Combined Arms",
-				"row": 8,
-				"prerequisites": ["Ballistics","Combustion"],
+				"row": 4,
+				"prerequisites": ["Combustion"],
 				"quote": "'The root of the evil is not the construction of new, more dreadful weapons. It is the spirit of conquest.' - Ludwig von Mises"
 			},
 			{
 				"name": "Radar",
-				"row": 7,
-				"prerequisites": ["Ballistics","Electronics"],
+				"row": 5,
+				"prerequisites": ["Electronics"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"],
 				"quote": "'Vision is the art of seeing things invisible.' - Jonathan Swift"
 			}
@@ -555,7 +555,7 @@
 		"techs": [
 			{
 				"name": "No further",
-				"row": 4,
+				"row": 6,
 				"prerequisites": ["Combined Arms","Radar"],
 				"uniques": ["Only available <after discovering [Pharmaceuticals]>","Blank tech for mod compatibility"],
 				"quote": "Stopped."	
