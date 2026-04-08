@@ -521,10 +521,19 @@
 				"prerequisites": ["Railroads"],
                 "uniques": ["[-50]% weight to this choice for AI decisions"],
 				"quote": "'Any man who can drive safely while kissing a pretty girl is simply not giving the kiss the attention it deserves.' - Albert Einstein"
-			},
+			}
+		]
+	},
+	{
+		"columnNumber": 13
+		"era": "Modern era",
+		"techCost": 4400,
+		"buildingCost": 500,
+		"wonderCost": 1250,
+		"techs": [
 			{
 				"name": "Combined Arms",
-				"row": 9,
+				"row": 8,
 				"prerequisites": ["Ballistics","Combustion"],
 				"quote": "'The root of the evil is not the construction of new, more dreadful weapons. It is the spirit of conquest.' - Ludwig von Mises"
 			},
@@ -538,7 +547,7 @@
 		]
 	},
 	{
-		"columnNumber": 13
+		"columnNumber": 14,
 		"era": "Modern era",
 		"techCost": 0,
 		"buildingCost": 0,
@@ -549,12 +558,12 @@
 				"row": 4,
 				"prerequisites": ["Plastics","Electronics","Ballistics","Combustion","Combined Arms","Radar"],
 				"uniques": ["Only available <after discovering [Pharmaceuticals]","Blank tech for mod compatibility"],
-				"quote": "Stopped."
+				"quote": "Stopped."	
 			}
 		]
 	},
 	{
-		"columnNumber": 14,
+		"columnNumber": 15,
 		"era": "Atomic era",
 		"techCost": 5100,
 		"buildingCost": 500,
@@ -576,7 +585,7 @@
 		]
 	},
 	{
-		"columnNumber": 15,
+		"columnNumber": 16,
 		"era": "Atomic era",
 		"techCost": 6400,
 		"buildingCost": 500,
@@ -591,26 +600,26 @@
 			{
 				"name": "Nuclear Fission",
 				"row": 4,
-				"prerequisites": ["Atomic Theory","Radar"],
+				"prerequisites": ["Atomic Theory"],
 				"quote": "'I am become Death, the destroyer of worlds.' - J. Robert Oppenheimer"
 			},
 			{
 				"name": "Rocketry",
 				"row": 6,
-				"prerequisites": ["Radar"],
+				"prerequisites": ["Atomic Theory"],
                 "uniques": ["[+100]% weight to this choice for AI decisions"],
 				"quote": "'A good rule for rocket experimenters to follow is this: always assume that it will explode.' - Astronautics Magazine, 1937"
 			},
 			{
 				"name": "Computers",
 				"row": 8,
-				"prerequisites": ["Combined Arms","Radar"],
+				"prerequisites": ["Atomic Theory"],
 				"quote": "'Computers are like Old Testament gods: lots of rules and no mercy.' - Joseph Campbell"
 			}
 		]
 	},
 	{
-		"columnNumber": 16,
+		"columnNumber": 17,
 		"era": "Information era",
 		"techCost": 7700,
 		"buildingCost": 750,
@@ -658,7 +667,7 @@
 	},
 
 	{
-		"columnNumber": 17,
+		"columnNumber": 18,
 		"era": "Information era",
 		"techCost": 8800,
 		"buildingCost": 750,
@@ -700,7 +709,7 @@
 		]
 	},
 	{
-		"columnNumber": 18,
+		"columnNumber": 19,
 		"era": "Future era",
 		"techCost": 9500,
 		"buildingCost": 750,
