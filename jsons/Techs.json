@@ -533,7 +533,7 @@
 		"techs": [
 			{
 				"name": "Combined Arms",
-				"row": 4,
+				"row": 8,
 				"prerequisites": ["Combustion"],
 				"quote": "'The root of the evil is not the construction of new, more dreadful weapons. It is the spirit of conquest.' - Ludwig von Mises"
 			},
@@ -555,7 +555,7 @@
 		"techs": [
 			{
 				"name": "No further",
-				"row": 6,
+				"row": 5,
 				"prerequisites": ["Combined Arms","Radar"],
 				"uniques": ["Only available <after discovering [Pharmaceuticals]>","Blank tech for mod compatibility"],
 				"quote": "Stopped."	
