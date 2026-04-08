@@ -556,7 +556,7 @@
 			{
 				"name": "No further",
 				"row": 4,
-				"prerequisites": ["Plastics","Electronics","Ballistics","Combustion","Combined Arms","Radar"],
+				"prerequisites": ["Combined Arms","Radar"],
 				"uniques": ["Only available <after discovering [Pharmaceuticals]","Blank tech for mod compatibility"],
 				"quote": "Stopped."	
 			}
@@ -594,7 +594,7 @@
 			{
 				"name": "Ecology",
 				"row": 2,
-				"prerequisites": ["Atomic Theory","Pharmaceuticals"],
+				"prerequisites": ["Pharmaceuticals"],
 				"quote": "'Only within the moment of time represented by the present century has one species, man, acquired significant power to alter the nature of his world.' - Rachel Carson"
 			},
 			{
