@@ -1,1 +1,14 @@
-
+[
+  {
+    "name": "Machine Gun",
+		"unitType": "Ranged Gunpowder",
+		"range": 1,
+		"movement": 2,
+		"strength": 40,
+		"rangedStrength": 60,
+		"cost": 350,
+		"requiredTech": "Ballistics",
+		"upgradesTo": "Mechanized Infantry",
+		"attackSound": "machinegun"
+  }
+]
