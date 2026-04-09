@@ -2,9 +2,9 @@
   {
     "name": "Machine Gun",
 		"unitType": "Ranged Gunpowder",
-		"range": 1,
+		"range": 2,
 		"movement": 2,
-		"strength": 40,
+		"strength": 27,
 		"rangedStrength": 60,
 		"cost": 350,
 		"requiredTech": "Ballistics",
